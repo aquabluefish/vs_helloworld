@@ -3,6 +3,7 @@
 
 
 #include "stdafx.h"
+
 #include <windows.h>
 
 int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
